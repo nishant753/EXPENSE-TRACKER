@@ -1,5 +1,4 @@
 package com.example.expense.model;
-
 import jakarta.persistence.*;
 import java.time.LocalDate;
 
@@ -75,3 +74,4 @@ public class Expense {
         this.expenseDate = expenseDate;
     }
 }
+
