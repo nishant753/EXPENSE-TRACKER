@@ -61,10 +61,12 @@ It helps users gain better money management skills and long-term financial aware
 
 # Team Members:
 
-| Name     | Roll No.   |
 | Harshita | 2310990686 |
+
 | Kirti    | 2310990717 |
+
 | Manan    | 2310990729 |
+
 | Nishant  | 2310990753 |
 
 Supervised By: 
